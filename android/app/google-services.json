@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082509995273",
+    "project_id": "e-nosa",
+    "storage_bucket": "e-nosa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082509995273:android:23ed25a77fc609b51777d8",
+        "android_client_info": {
+          "package_name": "com.example.e_nosa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082509995273-liu0srm7fuh3qmsh20ifiifj08kfro57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBniIaW218Naex33l2sSxL5QdQg8SqCQ7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082509995273-liu0srm7fuh3qmsh20ifiifj08kfro57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
